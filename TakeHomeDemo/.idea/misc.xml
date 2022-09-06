@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/drawable/edittext_round_corners_background_shadow.xml" value="0.1395" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/drawable/filter_dark_gray_background.xml" value="0.1545" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/drawable/filter_edittext_background.xml" value="0.1545" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/drawable/filter_round_corners_background.xml" value="0.1395" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1955" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/drawable/menu_icon.xml" value="0.1395" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/font/saira_stencil_one.xml" value="0.234375" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/font/sirin_stencil.xml" value="0.234375" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/car_list_item.xml" value="0.22" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/expend_car_list_item.xml" value="0.18" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/filter.xml" value="0.17255434782608695" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/main_filter.xml" value="0.1" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/pro_con_list_item.xml" value="0.25" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/TakeHomeDemo/app/src/main/res/layout/toolbar.xml" value="0.17255434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
